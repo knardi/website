@@ -27,7 +27,7 @@ All of these objects descend from Ember.Object, which provides great features li
 
 ### Differences from Ruby on Rails
 
-A common misconception about Ember.js's MVC implementation is that it must be similar to that of Ruby on Rails. This is incorrect. 
+A common misconception about Ember.js's MVC implementation is that it must be similar to that of Ruby on Rails. This is incorrect.
 
 The reason for this difference is due to Ruby on Rails being a server-side framework, whereas Ember is a client-side framework.[1]
 
@@ -43,7 +43,6 @@ Rails, on the other hand, runs on the server. As such, it can only communicate w
   <img alt="Rails MVC Diagram" src="/images/ember_mvc/railsmvc.png">
 </figure>
 
-It is important to keep this difference in mind when architecting your applications. 
+It is important to keep this difference in mind when architecting your applications.
 
 [1] Although it is possible to use Ember.js on the server side, that is beyond the scope of this guide.
-# Ember.js MVC
